@@ -1,1 +1,2 @@
-print("Za LUPAAAAA")
+import turtle
+import keyboard
